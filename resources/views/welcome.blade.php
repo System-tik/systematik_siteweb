@@ -13,7 +13,7 @@
     </head>
     <body>
        <div id="app"></div>
-      <div class="text-red-500">KANYINDA</div>
+      <div class=" bg-blue-200">KANYINDA</div>
        @vite('resources/js/app.js')
     </body>
 </html>
